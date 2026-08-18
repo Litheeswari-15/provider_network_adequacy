@@ -1,0 +1,582 @@
+county,city_town,specialist,capacity_adequacy,distance_adequacy,total_adequacy,status,ZIP_Code
+Harris,Houston,Anesthesiology,61,27,44,INADEQUATE,77401
+Harris,Houston,Cardiology,24,85,54,PARTIALLY ADEQUATE,77401
+Harris,Houston,Dermatology,81,18,50,PARTIALLY ADEQUATE,77379
+Harris,Houston,Gynecology,70,83,76,ADEQUATE,77429
+Harris,Houston,Neurology,30,67,48,PARTIALLY ADEQUATE,77429
+Harris,Houston,Ophthalmology,92,26,59,PARTIALLY ADEQUATE,77070
+Harris,Houston,Orthopedic Surgery,96,16,56,PARTIALLY ADEQUATE,77041
+Dallas,Dallas,Anesthesiology,84,55,70,ADEQUATE,75235
+Dallas,Dallas,Cardiology,84,22,53,PARTIALLY ADEQUATE,77030
+Dallas,Dallas,Dermatology,97,49,73,ADEQUATE,75061
+Dallas,Dallas,Gynecology,33,51,42,INADEQUATE,75104
+Dallas,Dallas,Neurology,12,18,15,INADEQUATE,75088
+Dallas,Dallas,Ophthalmology,31,59,45,PARTIALLY ADEQUATE,75182
+Dallas,Dallas,Orthopedic Surgery,62,36,49,PARTIALLY ADEQUATE,77030
+Tarrant,Keller,Anesthesiology,11,75,43,INADEQUATE,77069
+Tarrant,Keller,Cardiology,97,14,56,PARTIALLY ADEQUATE,75226
+Tarrant,Keller,Dermatology,39,38,38,INADEQUATE,76063
+Tarrant,Keller,Gynecology,47,46,46,PARTIALLY ADEQUATE,76022
+Tarrant,Keller,Neurology,11,47,29,INADEQUATE,76015
+Tarrant,Keller,Ophthalmology,73,92,82,ADEQUATE,76132
+Tarrant,Keller,Orthopedic Surgery,69,17,43,INADEQUATE,77041
+Travis,Lakeway,Anesthesiology,30,74,52,PARTIALLY ADEQUATE,78738
+Travis,Lakeway,Cardiology,42,95,68,ADEQUATE,78735
+Travis,Lakeway,Dermatology,85,26,56,PARTIALLY ADEQUATE,78738
+Travis,Lakeway,Gynecology,67,80,74,ADEQUATE,77074
+Travis,Lakeway,Neurology,31,98,64,ADEQUATE,78731
+Travis,Lakeway,Ophthalmology,98,54,76,ADEQUATE,78731
+Travis,Lakeway,Orthopedic Surgery,58,13,36,INADEQUATE,78645
+Tarrant,Fort Worth,Anesthesiology,100,45,72,ADEQUATE,76054
+Tarrant,Fort Worth,Cardiology,68,79,74,ADEQUATE,76021
+Tarrant,Fort Worth,Dermatology,51,40,46,PARTIALLY ADEQUATE,76051
+Tarrant,Fort Worth,Gynecology,69,28,48,PARTIALLY ADEQUATE,76034
+Tarrant,Fort Worth,Neurology,89,70,80,ADEQUATE,78705
+Tarrant,Fort Worth,Ophthalmology,24,63,44,INADEQUATE,78215
+Tarrant,Fort Worth,Orthopedic Surgery,71,48,60,ADEQUATE,76053
+Bexar,San Antonio,Anesthesiology,71,100,86,ADEQUATE,75093
+Bexar,San Antonio,Cardiology,56,83,70,ADEQUATE,77024
+Bexar,San Antonio,Dermatology,71,99,85,ADEQUATE,78212
+Bexar,San Antonio,Gynecology,60,28,44,INADEQUATE,78735
+Bexar,San Antonio,Neurology,64,48,56,PARTIALLY ADEQUATE,78248
+Bexar,San Antonio,Ophthalmology,73,76,74,ADEQUATE,78258
+Bexar,San Antonio,Orthopedic Surgery,12,54,33,INADEQUATE,78229
+Tarrant,Arlington,Anesthesiology,60,22,41,INADEQUATE,76017
+Tarrant,Arlington,Cardiology,16,67,42,INADEQUATE,76022
+Tarrant,Arlington,Dermatology,30,29,30,INADEQUATE,76012
+Tarrant,Arlington,Gynecology,82,81,82,ADEQUATE,76248
+Tarrant,Arlington,Neurology,48,70,59,PARTIALLY ADEQUATE,76022
+Tarrant,Arlington,Ophthalmology,27,48,38,INADEQUATE,76054
+Tarrant,Arlington,Orthopedic Surgery,13,10,12,INADEQUATE,77025
+Dallas,Desoto,Anesthesiology,98,12,55,PARTIALLY ADEQUATE,75115
+Dallas,Desoto,Cardiology,69,86,78,ADEQUATE,75116
+Dallas,Desoto,Dermatology,23,71,47,PARTIALLY ADEQUATE,76104
+Dallas,Desoto,Gynecology,18,72,45,PARTIALLY ADEQUATE,75234
+Dallas,Desoto,Neurology,99,34,66,ADEQUATE,76018
+Dallas,Desoto,Ophthalmology,62,65,64,ADEQUATE,75235
+Dallas,Desoto,Orthopedic Surgery,11,42,26,INADEQUATE,75243
+Travis,Baylor Scott & White Clin,Anesthesiology,93,47,70,ADEQUATE,77026
+Travis,Baylor Scott & White Clin,Cardiology,69,15,42,INADEQUATE,77030
+Travis,Baylor Scott & White Clin,Dermatology,80,67,74,ADEQUATE,78758
+Travis,Baylor Scott & White Clin,Gynecology,53,53,53,PARTIALLY ADEQUATE,78701
+Travis,Baylor Scott & White Clin,Neurology,17,54,36,INADEQUATE,78738
+Travis,Baylor Scott & White Clin,Ophthalmology,56,41,48,PARTIALLY ADEQUATE,78218
+Travis,Baylor Scott & White Clin,Orthopedic Surgery,44,54,49,PARTIALLY ADEQUATE,78751
+Travis,Austin,Anesthesiology,87,70,78,ADEQUATE,78258
+Travis,Austin,Cardiology,90,56,73,ADEQUATE,78758
+Travis,Austin,Dermatology,45,30,38,INADEQUATE,78746
+Travis,Austin,Gynecology,59,89,74,ADEQUATE,75246
+Travis,Austin,Neurology,13,94,54,PARTIALLY ADEQUATE,78705
+Travis,Austin,Ophthalmology,11,84,48,PARTIALLY ADEQUATE,78731
+Travis,Austin,Orthopedic Surgery,15,45,30,INADEQUATE,78738
+Tarrant,Westworth Village,Anesthesiology,63,28,46,PARTIALLY ADEQUATE,75070
+Tarrant,Westworth Village,Cardiology,13,29,21,INADEQUATE,76063
+Tarrant,Westworth Village,Dermatology,63,66,64,ADEQUATE,76051
+Tarrant,Westworth Village,Gynecology,72,27,50,PARTIALLY ADEQUATE,76104
+Tarrant,Westworth Village,Neurology,27,56,42,INADEQUATE,76104
+Tarrant,Westworth Village,Ophthalmology,99,58,78,ADEQUATE,76012
+Tarrant,Westworth Village,Orthopedic Surgery,53,23,38,INADEQUATE,76053
+Dallas,Mesquite,Anesthesiology,43,24,34,INADEQUATE,75001
+Dallas,Mesquite,Cardiology,83,40,62,ADEQUATE,75235
+Dallas,Mesquite,Dermatology,71,10,40,INADEQUATE,75061
+Dallas,Mesquite,Gynecology,23,63,43,INADEQUATE,75042
+Dallas,Mesquite,Neurology,57,12,34,INADEQUATE,75115
+Dallas,Mesquite,Ophthalmology,24,25,24,INADEQUATE,75115
+Dallas,Mesquite,Orthopedic Surgery,81,96,88,ADEQUATE,75146
+Harris,Webster,Anesthesiology,87,66,76,ADEQUATE,75246
+Harris,Webster,Cardiology,96,84,90,ADEQUATE,77450
+Harris,Webster,Dermatology,71,21,46,PARTIALLY ADEQUATE,77094
+Harris,Webster,Gynecology,49,83,66,ADEQUATE,77493
+Harris,Webster,Neurology,94,25,60,ADEQUATE,77504
+Harris,Webster,Ophthalmology,89,81,85,ADEQUATE,77598
+Harris,Webster,Orthopedic Surgery,91,85,88,ADEQUATE,77450
+Harris,Baytown,Anesthesiology,62,33,48,PARTIALLY ADEQUATE,77375
+Harris,Baytown,Cardiology,33,37,35,INADEQUATE,77074
+Harris,Baytown,Dermatology,35,17,26,INADEQUATE,77094
+Harris,Baytown,Gynecology,98,45,72,ADEQUATE,77504
+Harris,Baytown,Neurology,69,99,84,ADEQUATE,77389
+Harris,Baytown,Ophthalmology,50,17,34,INADEQUATE,77339
+Harris,Baytown,Orthopedic Surgery,38,67,52,PARTIALLY ADEQUATE,77521
+Dallas,Grand Prairie,Anesthesiology,24,69,46,PARTIALLY ADEQUATE,75019
+Dallas,Grand Prairie,Cardiology,54,59,56,PARTIALLY ADEQUATE,75230
+Dallas,Grand Prairie,Dermatology,74,37,56,PARTIALLY ADEQUATE,75231
+Dallas,Grand Prairie,Gynecology,98,50,74,ADEQUATE,75080
+Dallas,Grand Prairie,Neurology,80,73,76,ADEQUATE,75149
+Dallas,Grand Prairie,Ophthalmology,18,36,27,INADEQUATE,78215
+Dallas,Grand Prairie,Orthopedic Surgery,97,72,84,ADEQUATE,77401
+Dallas,Duncanville,Anesthesiology,10,26,18,INADEQUATE,75205
+Dallas,Duncanville,Cardiology,17,82,50,PARTIALLY ADEQUATE,75208
+Dallas,Duncanville,Dermatology,97,42,70,ADEQUATE,75039
+Dallas,Duncanville,Gynecology,72,93,82,ADEQUATE,75088
+Dallas,Duncanville,Neurology,20,86,53,PARTIALLY ADEQUATE,75149
+Dallas,Duncanville,Ophthalmology,90,38,64,ADEQUATE,75115
+Dallas,Duncanville,Orthopedic Surgery,17,22,20,INADEQUATE,76109
+Travis,West Lake Hills,Anesthesiology,44,55,50,PARTIALLY ADEQUATE,75246
+Travis,West Lake Hills,Cardiology,44,44,44,INADEQUATE,78746
+Travis,West Lake Hills,Dermatology,42,15,28,INADEQUATE,78741
+Travis,West Lake Hills,Gynecology,14,91,52,PARTIALLY ADEQUATE,78735
+Travis,West Lake Hills,Neurology,50,78,64,ADEQUATE,77401
+Travis,West Lake Hills,Ophthalmology,37,56,46,PARTIALLY ADEQUATE,77030
+Travis,West Lake Hills,Orthopedic Surgery,16,34,25,INADEQUATE,76014
+Tarrant,Southlake,Anesthesiology,82,75,78,ADEQUATE,75246
+Tarrant,Southlake,Cardiology,81,19,50,PARTIALLY ADEQUATE,78660
+Tarrant,Southlake,Dermatology,21,65,43,INADEQUATE,76022
+Tarrant,Southlake,Gynecology,43,39,41,INADEQUATE,77030
+Tarrant,Southlake,Neurology,42,14,28,INADEQUATE,76063
+Tarrant,Southlake,Ophthalmology,57,42,50,PARTIALLY ADEQUATE,78215
+Tarrant,Southlake,Orthopedic Surgery,32,74,53,PARTIALLY ADEQUATE,75078
+Harris,Cypress,Anesthesiology,71,27,49,PARTIALLY ADEQUATE,77026
+Harris,Cypress,Cardiology,97,58,78,ADEQUATE,77339
+Harris,Cypress,Dermatology,46,20,33,INADEQUATE,75034
+Harris,Cypress,Gynecology,53,94,74,ADEQUATE,76063
+Harris,Cypress,Neurology,95,35,65,ADEQUATE,78705
+Harris,Cypress,Ophthalmology,100,72,86,ADEQUATE,77027
+Harris,Cypress,Orthopedic Surgery,44,98,71,ADEQUATE,75078
+Collin,Prosper,Anesthesiology,74,95,84,ADEQUATE,75093
+Collin,Prosper,Cardiology,56,68,62,ADEQUATE,75034
+Collin,Prosper,Dermatology,87,36,62,ADEQUATE,75069
+Collin,Prosper,Gynecology,12,58,35,INADEQUATE,75070
+Collin,Prosper,Neurology,10,86,48,PARTIALLY ADEQUATE,77401
+Collin,Prosper,Ophthalmology,14,42,28,INADEQUATE,75034
+Collin,Prosper,Orthopedic Surgery,99,10,54,PARTIALLY ADEQUATE,76109
+Dallas,Irving,Anesthesiology,23,30,26,INADEQUATE,75042
+Dallas,Irving,Cardiology,36,64,50,PARTIALLY ADEQUATE,75226
+Dallas,Irving,Dermatology,18,15,16,INADEQUATE,75061
+Dallas,Irving,Gynecology,88,90,89,ADEQUATE,75052
+Dallas,Irving,Neurology,24,78,51,PARTIALLY ADEQUATE,75062
+Dallas,Irving,Ophthalmology,99,14,56,PARTIALLY ADEQUATE,75039
+Dallas,Irving,Orthopedic Surgery,51,12,32,INADEQUATE,75115
+Collin,Celina,Anesthesiology,86,62,74,ADEQUATE,75075
+Collin,Celina,Cardiology,60,32,46,PARTIALLY ADEQUATE,77030
+Collin,Celina,Dermatology,72,62,67,ADEQUATE,75009
+Collin,Celina,Gynecology,61,46,54,PARTIALLY ADEQUATE,75078
+Collin,Celina,Neurology,13,83,48,PARTIALLY ADEQUATE,75235
+Collin,Celina,Ophthalmology,32,83,58,PARTIALLY ADEQUATE,75251
+Collin,Celina,Orthopedic Surgery,24,92,58,PARTIALLY ADEQUATE,77063
+Tarrant,Grapevine,Anesthesiology,52,26,39,INADEQUATE,78258
+Tarrant,Grapevine,Cardiology,38,94,66,ADEQUATE,77059
+Tarrant,Grapevine,Dermatology,45,87,66,ADEQUATE,76022
+Tarrant,Grapevine,Gynecology,22,82,52,PARTIALLY ADEQUATE,76137
+Tarrant,Grapevine,Neurology,41,10,26,INADEQUATE,76092
+Tarrant,Grapevine,Ophthalmology,80,60,70,ADEQUATE,76022
+Tarrant,Grapevine,Orthopedic Surgery,68,54,61,ADEQUATE,77030
+Dallas,Coppell,Anesthesiology,95,86,90,ADEQUATE,75088
+Dallas,Coppell,Cardiology,37,13,25,INADEQUATE,75150
+Dallas,Coppell,Dermatology,75,71,73,ADEQUATE,75235
+Dallas,Coppell,Gynecology,51,74,62,ADEQUATE,77521
+Dallas,Coppell,Neurology,54,41,48,PARTIALLY ADEQUATE,75244
+Dallas,Coppell,Ophthalmology,71,43,57,PARTIALLY ADEQUATE,75050
+Dallas,Coppell,Orthopedic Surgery,66,81,74,ADEQUATE,77401
+Dallas,Richardson,Anesthesiology,15,48,32,INADEQUATE,75246
+Dallas,Richardson,Cardiology,37,35,36,INADEQUATE,77030
+Dallas,Richardson,Dermatology,37,43,40,INADEQUATE,78758
+Dallas,Richardson,Gynecology,53,63,58,PARTIALLY ADEQUATE,78229
+Dallas,Richardson,Neurology,93,12,52,PARTIALLY ADEQUATE,75208
+Dallas,Richardson,Ophthalmology,39,59,49,PARTIALLY ADEQUATE,78215
+Dallas,Richardson,Orthopedic Surgery,71,21,46,PARTIALLY ADEQUATE,75243
+Collin,Plano,Anesthesiology,84,74,79,ADEQUATE,75235
+Collin,Plano,Cardiology,98,63,80,ADEQUATE,75069
+Collin,Plano,Dermatology,71,14,42,INADEQUATE,75035
+Collin,Plano,Gynecology,10,66,38,INADEQUATE,75246
+Collin,Plano,Neurology,36,26,31,INADEQUATE,77401
+Collin,Plano,Ophthalmology,71,56,64,ADEQUATE,75082
+Collin,Plano,Orthopedic Surgery,86,32,59,PARTIALLY ADEQUATE,77030
+Harris,Tomball,Anesthesiology,12,88,50,PARTIALLY ADEQUATE,77069
+Harris,Tomball,Cardiology,79,94,86,ADEQUATE,77070
+Harris,Tomball,Dermatology,81,23,52,PARTIALLY ADEQUATE,75246
+Harris,Tomball,Gynecology,36,75,56,PARTIALLY ADEQUATE,77030
+Harris,Tomball,Neurology,18,84,51,PARTIALLY ADEQUATE,77379
+Harris,Tomball,Ophthalmology,71,60,66,ADEQUATE,78258
+Harris,Tomball,Orthopedic Surgery,46,47,46,PARTIALLY ADEQUATE,77375
+Collin,Allen,Anesthesiology,60,73,66,ADEQUATE,78212
+Collin,Allen,Cardiology,53,47,50,PARTIALLY ADEQUATE,75078
+Collin,Allen,Dermatology,33,59,46,PARTIALLY ADEQUATE,75093
+Collin,Allen,Gynecology,88,91,90,ADEQUATE,75069
+Collin,Allen,Neurology,68,39,54,PARTIALLY ADEQUATE,75070
+Collin,Allen,Ophthalmology,41,88,64,ADEQUATE,77002
+Collin,Allen,Orthopedic Surgery,97,100,98,ADEQUATE,75098
+Bexar,Live Oak,Anesthesiology,61,60,60,ADEQUATE,75235
+Bexar,Live Oak,Cardiology,71,72,72,ADEQUATE,75246
+Bexar,Live Oak,Dermatology,67,61,64,ADEQUATE,77521
+Bexar,Live Oak,Gynecology,61,47,54,PARTIALLY ADEQUATE,78229
+Bexar,Live Oak,Neurology,21,97,59,PARTIALLY ADEQUATE,78229
+Bexar,Live Oak,Ophthalmology,48,88,68,ADEQUATE,77070
+Bexar,Live Oak,Orthopedic Surgery,11,39,25,INADEQUATE,78229
+Tarrant,Mansfield,Anesthesiology,12,60,36,INADEQUATE,78705
+Tarrant,Mansfield,Cardiology,65,90,78,ADEQUATE,75093
+Tarrant,Mansfield,Dermatology,90,14,52,PARTIALLY ADEQUATE,76063
+Tarrant,Mansfield,Gynecology,68,38,53,PARTIALLY ADEQUATE,76013
+Tarrant,Mansfield,Neurology,11,13,12,INADEQUATE,77030
+Tarrant,Mansfield,Ophthalmology,11,19,15,INADEQUATE,78215
+Tarrant,Mansfield,Orthopedic Surgery,63,65,64,ADEQUATE,76051
+Harris,Channelview,Anesthesiology,96,26,61,ADEQUATE,77069
+Harris,Channelview,Cardiology,10,83,46,PARTIALLY ADEQUATE,75235
+Harris,Channelview,Dermatology,28,26,27,INADEQUATE,77379
+Harris,Channelview,Gynecology,11,93,52,PARTIALLY ADEQUATE,77429
+Harris,Channelview,Neurology,62,97,80,ADEQUATE,77598
+Harris,Channelview,Ophthalmology,53,78,66,ADEQUATE,77063
+Harris,Channelview,Orthopedic Surgery,99,43,71,ADEQUATE,77030
+Harris,Humble,Anesthesiology,41,15,28,INADEQUATE,77521
+Harris,Humble,Cardiology,79,62,70,ADEQUATE,78229
+Harris,Humble,Dermatology,41,75,58,PARTIALLY ADEQUATE,77345
+Harris,Humble,Gynecology,77,86,82,ADEQUATE,77379
+Harris,Humble,Neurology,64,52,58,PARTIALLY ADEQUATE,77429
+Harris,Humble,Ophthalmology,84,84,84,ADEQUATE,77027
+Harris,Humble,Orthopedic Surgery,65,32,48,PARTIALLY ADEQUATE,77401
+Bexar,Helotes,Anesthesiology,26,64,45,PARTIALLY ADEQUATE,78229
+Bexar,Helotes,Cardiology,47,89,68,ADEQUATE,76022
+Bexar,Helotes,Dermatology,33,84,58,PARTIALLY ADEQUATE,78758
+Bexar,Helotes,Gynecology,78,25,52,PARTIALLY ADEQUATE,78258
+Bexar,Helotes,Neurology,79,17,48,PARTIALLY ADEQUATE,78249
+Bexar,Helotes,Ophthalmology,95,13,54,PARTIALLY ADEQUATE,75251
+Bexar,Helotes,Orthopedic Surgery,20,13,16,INADEQUATE,77025
+Travis,Manor,Anesthesiology,25,65,45,PARTIALLY ADEQUATE,78738
+Travis,Manor,Cardiology,82,34,58,PARTIALLY ADEQUATE,75235
+Travis,Manor,Dermatology,68,76,72,ADEQUATE,78741
+Travis,Manor,Gynecology,79,76,78,ADEQUATE,78660
+Travis,Manor,Neurology,89,36,62,ADEQUATE,78735
+Travis,Manor,Ophthalmology,12,41,26,INADEQUATE,78731
+Travis,Manor,Orthopedic Surgery,29,59,44,INADEQUATE,77025
+Collin,Frisco,Anesthesiology,68,70,69,ADEQUATE,78258
+Collin,Frisco,Cardiology,45,60,52,PARTIALLY ADEQUATE,78229
+Collin,Frisco,Dermatology,28,28,28,INADEQUATE,76104
+Collin,Frisco,Gynecology,99,30,64,ADEQUATE,75034
+Collin,Frisco,Neurology,76,14,45,PARTIALLY ADEQUATE,76104
+Collin,Frisco,Ophthalmology,28,91,60,ADEQUATE,77070
+Collin,Frisco,Orthopedic Surgery,29,51,40,INADEQUATE,77063
+Tarrant,Bedford,Anesthesiology,80,70,75,ADEQUATE,76034
+Tarrant,Bedford,Cardiology,61,31,46,PARTIALLY ADEQUATE,75246
+Tarrant,Bedford,Dermatology,42,30,36,INADEQUATE,76063
+Tarrant,Bedford,Gynecology,49,79,64,ADEQUATE,75246
+Tarrant,Bedford,Neurology,48,10,29,INADEQUATE,76039
+Tarrant,Bedford,Ophthalmology,91,14,52,PARTIALLY ADEQUATE,76180
+Tarrant,Bedford,Orthopedic Surgery,10,21,16,INADEQUATE,76092
+Harris,Katy,Anesthesiology,20,99,60,ADEQUATE,77379
+Harris,Katy,Cardiology,66,55,60,ADEQUATE,77433
+Harris,Katy,Dermatology,98,43,70,ADEQUATE,78758
+Harris,Katy,Gynecology,59,58,58,PARTIALLY ADEQUATE,77401
+Harris,Katy,Neurology,32,87,60,ADEQUATE,77375
+Harris,Katy,Ophthalmology,40,99,70,ADEQUATE,78218
+Harris,Katy,Orthopedic Surgery,51,54,52,PARTIALLY ADEQUATE,77389
+Tarrant,Ft Worth,Anesthesiology,16,36,26,INADEQUATE,78705
+Tarrant,Ft Worth,Cardiology,25,82,54,PARTIALLY ADEQUATE,75075
+Tarrant,Ft Worth,Dermatology,99,35,67,ADEQUATE,76063
+Tarrant,Ft Worth,Gynecology,69,56,62,ADEQUATE,76034
+Tarrant,Ft Worth,Neurology,11,95,53,PARTIALLY ADEQUATE,76022
+Tarrant,Ft Worth,Ophthalmology,10,65,38,INADEQUATE,75231
+Tarrant,Ft Worth,Orthopedic Surgery,57,72,64,ADEQUATE,75078
+Harris,Kingwood,Anesthesiology,21,57,39,INADEQUATE,78258
+Harris,Kingwood,Cardiology,78,70,74,ADEQUATE,77433
+Harris,Kingwood,Dermatology,46,90,68,ADEQUATE,77521
+Harris,Kingwood,Gynecology,41,35,38,INADEQUATE,77094
+Harris,Kingwood,Neurology,18,45,32,INADEQUATE,75235
+Harris,Kingwood,Ophthalmology,28,10,19,INADEQUATE,77598
+Harris,Kingwood,Orthopedic Surgery,57,17,37,INADEQUATE,77063
+Dallas,Carollton,Anesthesiology,89,61,75,ADEQUATE,75093
+Dallas,Carollton,Cardiology,12,88,50,PARTIALLY ADEQUATE,77598
+Dallas,Carollton,Dermatology,29,56,42,INADEQUATE,75205
+Dallas,Carollton,Gynecology,33,65,49,PARTIALLY ADEQUATE,77521
+Dallas,Carollton,Neurology,63,95,79,ADEQUATE,75244
+Dallas,Carollton,Ophthalmology,42,23,32,INADEQUATE,75235
+Dallas,Carollton,Orthopedic Surgery,33,99,66,ADEQUATE,75246
+Dallas,Carrollton,Anesthesiology,84,37,60,ADEQUATE,75150
+Dallas,Carrollton,Cardiology,81,96,88,ADEQUATE,75038
+Dallas,Carrollton,Dermatology,45,87,66,ADEQUATE,75034
+Dallas,Carrollton,Gynecology,47,97,72,ADEQUATE,77521
+Dallas,Carrollton,Neurology,93,11,52,PARTIALLY ADEQUATE,77030
+Dallas,Carrollton,Ophthalmology,98,35,66,ADEQUATE,75042
+Dallas,Carrollton,Orthopedic Surgery,34,23,28,INADEQUATE,75039
+Collin,Murphy,Anesthesiology,27,68,48,PARTIALLY ADEQUATE,75235
+Collin,Murphy,Cardiology,91,65,78,ADEQUATE,77004
+Collin,Murphy,Dermatology,75,16,46,PARTIALLY ADEQUATE,75078
+Collin,Murphy,Gynecology,63,12,38,INADEQUATE,75082
+Collin,Murphy,Neurology,44,32,38,INADEQUATE,75075
+Collin,Murphy,Ophthalmology,89,27,58,PARTIALLY ADEQUATE,75023
+Collin,Murphy,Orthopedic Surgery,70,47,58,PARTIALLY ADEQUATE,77063
+Collin,Mckinney,Anesthesiology,50,24,37,INADEQUATE,77030
+Collin,Mckinney,Cardiology,42,73,58,PARTIALLY ADEQUATE,75235
+Collin,Mckinney,Dermatology,77,98,88,ADEQUATE,75070
+Collin,Mckinney,Gynecology,42,37,40,INADEQUATE,75009
+Collin,Mckinney,Neurology,23,83,53,PARTIALLY ADEQUATE,75075
+Collin,Mckinney,Ophthalmology,30,48,39,INADEQUATE,75034
+Collin,Mckinney,Orthopedic Surgery,57,66,62,ADEQUATE,75082
+Travis,Pflugerville,Anesthesiology,29,26,28,INADEQUATE,77069
+Travis,Pflugerville,Cardiology,17,95,56,PARTIALLY ADEQUATE,78735
+Travis,Pflugerville,Dermatology,16,99,58,PARTIALLY ADEQUATE,78703
+Travis,Pflugerville,Gynecology,76,53,64,ADEQUATE,78645
+Travis,Pflugerville,Neurology,26,34,30,INADEQUATE,78645
+Travis,Pflugerville,Ophthalmology,42,26,34,INADEQUATE,78660
+Travis,Pflugerville,Orthopedic Surgery,57,22,40,INADEQUATE,76014
+Travis,Bee Cave,Anesthesiology,85,93,89,ADEQUATE,75246
+Travis,Bee Cave,Cardiology,68,34,51,PARTIALLY ADEQUATE,75093
+Travis,Bee Cave,Dermatology,95,77,86,ADEQUATE,78741
+Travis,Bee Cave,Gynecology,31,19,25,INADEQUATE,78704
+Travis,Bee Cave,Neurology,39,76,58,PARTIALLY ADEQUATE,78746
+Travis,Bee Cave,Ophthalmology,47,27,37,INADEQUATE,77030
+Travis,Bee Cave,Orthopedic Surgery,60,95,78,ADEQUATE,77030
+Dallas,Garland,Anesthesiology,63,43,53,PARTIALLY ADEQUATE,75081
+Dallas,Garland,Cardiology,17,17,17,INADEQUATE,75226
+Dallas,Garland,Dermatology,36,49,42,INADEQUATE,75231
+Dallas,Garland,Gynecology,36,92,64,ADEQUATE,75044
+Dallas,Garland,Neurology,30,51,40,INADEQUATE,75235
+Dallas,Garland,Ophthalmology,39,50,44,INADEQUATE,78218
+Dallas,Garland,Orthopedic Surgery,37,15,26,INADEQUATE,78233
+Dallas,Addison,Anesthesiology,73,61,67,ADEQUATE,75001
+Dallas,Addison,Cardiology,78,35,56,PARTIALLY ADEQUATE,75088
+Dallas,Addison,Dermatology,70,73,72,ADEQUATE,75042
+Dallas,Addison,Gynecology,57,68,62,ADEQUATE,75149
+Dallas,Addison,Neurology,28,65,46,PARTIALLY ADEQUATE,75062
+Dallas,Addison,Ophthalmology,13,68,40,INADEQUATE,75115
+Dallas,Addison,Orthopedic Surgery,44,79,62,ADEQUATE,75235
+Harris,Crosby,Anesthesiology,73,42,58,PARTIALLY ADEQUATE,77030
+Harris,Crosby,Cardiology,58,62,60,ADEQUATE,77389
+Harris,Crosby,Dermatology,26,31,28,INADEQUATE,75034
+Harris,Crosby,Gynecology,53,30,42,INADEQUATE,77450
+Harris,Crosby,Neurology,39,79,59,PARTIALLY ADEQUATE,77401
+Harris,Crosby,Ophthalmology,55,79,67,ADEQUATE,77346
+Harris,Crosby,Orthopedic Surgery,15,13,14,INADEQUATE,77063
+Tarrant,Hurst,Anesthesiology,46,84,65,ADEQUATE,75093
+Tarrant,Hurst,Cardiology,33,71,52,PARTIALLY ADEQUATE,76034
+Tarrant,Hurst,Dermatology,55,71,63,ADEQUATE,76012
+Tarrant,Hurst,Gynecology,62,33,48,PARTIALLY ADEQUATE,77521
+Tarrant,Hurst,Neurology,69,64,66,ADEQUATE,76034
+Tarrant,Hurst,Ophthalmology,72,18,45,PARTIALLY ADEQUATE,76051
+Tarrant,Hurst,Orthopedic Surgery,94,12,53,PARTIALLY ADEQUATE,76109
+Collin,Dallas,Anesthesiology,41,40,40,INADEQUATE,78212
+Collin,Dallas,Cardiology,96,49,72,ADEQUATE,75069
+Collin,Dallas,Dermatology,42,45,44,INADEQUATE,75013
+Collin,Dallas,Gynecology,76,33,54,PARTIALLY ADEQUATE,75035
+Collin,Dallas,Neurology,27,15,21,INADEQUATE,75074
+Collin,Dallas,Ophthalmology,34,75,54,PARTIALLY ADEQUATE,75013
+Collin,Dallas,Orthopedic Surgery,63,93,78,ADEQUATE,78233
+Dallas,Sunnyvale,Anesthesiology,67,84,76,ADEQUATE,75205
+Dallas,Sunnyvale,Cardiology,76,13,44,INADEQUATE,75042
+Dallas,Sunnyvale,Dermatology,55,88,72,ADEQUATE,77521
+Dallas,Sunnyvale,Gynecology,33,15,24,INADEQUATE,75088
+Dallas,Sunnyvale,Neurology,41,60,50,PARTIALLY ADEQUATE,75115
+Dallas,Sunnyvale,Ophthalmology,56,71,64,ADEQUATE,75137
+Dallas,Sunnyvale,Orthopedic Surgery,95,66,80,ADEQUATE,75001
+Harris,Houstin,Anesthesiology,32,75,54,PARTIALLY ADEQUATE,77401
+Harris,Houstin,Cardiology,75,88,82,ADEQUATE,77389
+Harris,Houstin,Dermatology,36,84,60,ADEQUATE,78254
+Harris,Houstin,Gynecology,11,17,14,INADEQUATE,77338
+Harris,Houstin,Neurology,99,35,67,ADEQUATE,77532
+Harris,Houstin,Ophthalmology,26,60,43,INADEQUATE,77375
+Harris,Houstin,Orthopedic Surgery,42,54,48,PARTIALLY ADEQUATE,77339
+Harris,Spring,Anesthesiology,18,53,36,INADEQUATE,77042
+Harris,Spring,Cardiology,52,14,33,INADEQUATE,75075
+Harris,Spring,Dermatology,57,79,68,ADEQUATE,78758
+Harris,Spring,Gynecology,48,35,42,INADEQUATE,76104
+Harris,Spring,Neurology,51,77,64,ADEQUATE,77598
+Harris,Spring,Ophthalmology,35,28,32,INADEQUATE,78258
+Harris,Spring,Orthopedic Surgery,59,93,76,ADEQUATE,77375
+Dallas,Cedar Hill,Anesthesiology,34,29,32,INADEQUATE,75150
+Dallas,Cedar Hill,Cardiology,33,21,27,INADEQUATE,75226
+Dallas,Cedar Hill,Dermatology,22,56,39,INADEQUATE,75019
+Dallas,Cedar Hill,Gynecology,69,10,40,INADEQUATE,75044
+Dallas,Cedar Hill,Neurology,16,99,58,PARTIALLY ADEQUATE,77401
+Dallas,Cedar Hill,Ophthalmology,66,23,44,INADEQUATE,75244
+Dallas,Cedar Hill,Orthopedic Surgery,45,73,59,PARTIALLY ADEQUATE,75001
+Tarrant,Euless,Anesthesiology,54,47,50,PARTIALLY ADEQUATE,77401
+Tarrant,Euless,Cardiology,29,46,38,INADEQUATE,78660
+Tarrant,Euless,Dermatology,74,20,47,PARTIALLY ADEQUATE,76022
+Tarrant,Euless,Gynecology,17,86,52,PARTIALLY ADEQUATE,76132
+Tarrant,Euless,Neurology,25,12,18,INADEQUATE,78705
+Tarrant,Euless,Ophthalmology,23,42,32,INADEQUATE,75231
+Tarrant,Euless,Orthopedic Surgery,85,15,50,PARTIALLY ADEQUATE,76180
+Collin,Richardson,Anesthesiology,96,59,78,ADEQUATE,77069
+Collin,Richardson,Cardiology,24,19,22,INADEQUATE,75235
+Collin,Richardson,Dermatology,75,14,44,INADEQUATE,75013
+Collin,Richardson,Gynecology,41,32,36,INADEQUATE,78229
+Collin,Richardson,Neurology,96,19,58,PARTIALLY ADEQUATE,75024
+Collin,Richardson,Ophthalmology,72,53,62,ADEQUATE,75093
+Collin,Richardson,Orthopedic Surgery,95,11,53,PARTIALLY ADEQUATE,75074
+Bexar,Boerne,Anesthesiology,60,22,41,INADEQUATE,75246
+Bexar,Boerne,Cardiology,34,49,42,INADEQUATE,75075
+Bexar,Boerne,Dermatology,67,11,39,INADEQUATE,78212
+Bexar,Boerne,Gynecology,72,93,82,ADEQUATE,77030
+Bexar,Boerne,Neurology,71,74,72,ADEQUATE,78234
+Bexar,Boerne,Ophthalmology,31,72,52,PARTIALLY ADEQUATE,78233
+Bexar,Boerne,Orthopedic Surgery,67,82,74,ADEQUATE,77401
+Tarrant,Colleyville,Anesthesiology,67,26,46,PARTIALLY ADEQUATE,75070
+Tarrant,Colleyville,Cardiology,95,18,56,PARTIALLY ADEQUATE,75093
+Tarrant,Colleyville,Dermatology,58,84,71,ADEQUATE,76107
+Tarrant,Colleyville,Gynecology,61,24,42,INADEQUATE,76104
+Tarrant,Colleyville,Neurology,51,33,42,INADEQUATE,76126
+Tarrant,Colleyville,Ophthalmology,79,47,63,ADEQUATE,76051
+Tarrant,Colleyville,Orthopedic Surgery,24,44,34,INADEQUATE,77401
+Dallas,Lancaster,Anesthesiology,63,58,60,ADEQUATE,77401
+Dallas,Lancaster,Cardiology,69,78,74,ADEQUATE,75150
+Dallas,Lancaster,Dermatology,17,71,44,INADEQUATE,75150
+Dallas,Lancaster,Gynecology,62,69,66,ADEQUATE,78735
+Dallas,Lancaster,Neurology,69,59,64,ADEQUATE,75208
+Dallas,Lancaster,Ophthalmology,14,87,50,PARTIALLY ADEQUATE,75042
+Dallas,Lancaster,Orthopedic Surgery,77,84,80,ADEQUATE,76109
+Dallas,Farmers Branch,Anesthesiology,15,18,16,INADEQUATE,77069
+Dallas,Farmers Branch,Cardiology,56,43,50,PARTIALLY ADEQUATE,75182
+Dallas,Farmers Branch,Dermatology,64,85,74,ADEQUATE,75150
+Dallas,Farmers Branch,Gynecology,49,44,46,PARTIALLY ADEQUATE,75042
+Dallas,Farmers Branch,Neurology,61,10,36,INADEQUATE,75062
+Dallas,Farmers Branch,Ophthalmology,25,49,37,INADEQUATE,75150
+Dallas,Farmers Branch,Orthopedic Surgery,22,73,48,PARTIALLY ADEQUATE,75150
+Harris,Pasadena,Anesthesiology,39,31,35,INADEQUATE,77379
+Harris,Pasadena,Cardiology,28,69,48,PARTIALLY ADEQUATE,77338
+Harris,Pasadena,Dermatology,26,73,50,PARTIALLY ADEQUATE,76063
+Harris,Pasadena,Gynecology,72,81,76,ADEQUATE,77521
+Harris,Pasadena,Neurology,28,20,24,INADEQUATE,77339
+Harris,Pasadena,Ophthalmology,67,23,45,PARTIALLY ADEQUATE,77450
+Harris,Pasadena,Orthopedic Surgery,64,69,66,ADEQUATE,77030
+Collin,Fairview,Anesthesiology,99,39,69,ADEQUATE,75024
+Collin,Fairview,Cardiology,99,44,72,ADEQUATE,77004
+Collin,Fairview,Dermatology,71,94,82,ADEQUATE,75025
+Collin,Fairview,Gynecology,32,46,39,INADEQUATE,76063
+Collin,Fairview,Neurology,18,14,16,INADEQUATE,76104
+Collin,Fairview,Ophthalmology,21,92,56,PARTIALLY ADEQUATE,75231
+Collin,Fairview,Orthopedic Surgery,10,87,48,PARTIALLY ADEQUATE,77025
+Harris,Deer Park,Anesthesiology,67,35,51,PARTIALLY ADEQUATE,77450
+Harris,Deer Park,Cardiology,10,71,40,INADEQUATE,77338
+Harris,Deer Park,Dermatology,43,13,28,INADEQUATE,77030
+Harris,Deer Park,Gynecology,57,98,78,ADEQUATE,77433
+Harris,Deer Park,Neurology,98,51,74,ADEQUATE,77389
+Harris,Deer Park,Ophthalmology,10,98,54,PARTIALLY ADEQUATE,77521
+Harris,Deer Park,Orthopedic Surgery,25,27,26,INADEQUATE,77401
+Tarrant,Benbrook,Anesthesiology,70,49,60,ADEQUATE,76248
+Tarrant,Benbrook,Cardiology,73,81,77,ADEQUATE,75246
+Tarrant,Benbrook,Dermatology,72,48,60,ADEQUATE,78758
+Tarrant,Benbrook,Gynecology,78,23,50,PARTIALLY ADEQUATE,76018
+Tarrant,Benbrook,Neurology,31,41,36,INADEQUATE,77401
+Tarrant,Benbrook,Ophthalmology,76,60,68,ADEQUATE,76022
+Tarrant,Benbrook,Orthopedic Surgery,85,47,66,ADEQUATE,76022
+Bexar,Shavano Park,Anesthesiology,35,32,34,INADEQUATE,77069
+Bexar,Shavano Park,Cardiology,25,72,48,PARTIALLY ADEQUATE,78023
+Bexar,Shavano Park,Dermatology,60,24,42,INADEQUATE,78254
+Bexar,Shavano Park,Gynecology,95,34,64,ADEQUATE,77521
+Bexar,Shavano Park,Neurology,66,26,46,PARTIALLY ADEQUATE,77030
+Bexar,Shavano Park,Ophthalmology,38,75,56,PARTIALLY ADEQUATE,77339
+Bexar,Shavano Park,Orthopedic Surgery,87,87,87,ADEQUATE,76014
+Bexar,Jbsa Fsh,Anesthesiology,78,62,70,ADEQUATE,77069
+Bexar,Jbsa Fsh,Cardiology,56,60,58,PARTIALLY ADEQUATE,78660
+Bexar,Jbsa Fsh,Dermatology,71,48,60,ADEQUATE,78023
+Bexar,Jbsa Fsh,Gynecology,78,60,69,ADEQUATE,76063
+Bexar,Jbsa Fsh,Neurology,85,79,82,ADEQUATE,78705
+Bexar,Jbsa Fsh,Ophthalmology,25,15,20,INADEQUATE,78218
+Bexar,Jbsa Fsh,Orthopedic Surgery,99,76,88,ADEQUATE,78229
+Tarrant,North Richland Hills,Anesthesiology,99,16,58,PARTIALLY ADEQUATE,76177
+Tarrant,North Richland Hills,Cardiology,57,60,58,PARTIALLY ADEQUATE,76104
+Tarrant,North Richland Hills,Dermatology,94,81,88,ADEQUATE,76034
+Tarrant,North Richland Hills,Gynecology,48,51,50,PARTIALLY ADEQUATE,75246
+Tarrant,North Richland Hills,Neurology,42,73,58,PARTIALLY ADEQUATE,77401
+Tarrant,North Richland Hills,Ophthalmology,32,24,28,INADEQUATE,76053
+Tarrant,North Richland Hills,Orthopedic Surgery,19,38,28,INADEQUATE,77025
+Tarrant,N Richland Hills,Anesthesiology,78,42,60,ADEQUATE,76104
+Tarrant,N Richland Hills,Cardiology,43,36,40,INADEQUATE,76092
+Tarrant,N Richland Hills,Dermatology,61,45,53,PARTIALLY ADEQUATE,76034
+Tarrant,N Richland Hills,Gynecology,19,38,28,INADEQUATE,76022
+Tarrant,N Richland Hills,Neurology,28,47,38,INADEQUATE,76107
+Tarrant,N Richland Hills,Ophthalmology,67,66,66,ADEQUATE,78215
+Tarrant,N Richland Hills,Orthopedic Surgery,10,36,23,INADEQUATE,77041
+Harris,Bellaire,Anesthesiology,78,64,71,ADEQUATE,77042
+Harris,Bellaire,Cardiology,13,42,28,INADEQUATE,77401
+Harris,Bellaire,Dermatology,25,77,51,PARTIALLY ADEQUATE,77339
+Harris,Bellaire,Gynecology,33,95,64,ADEQUATE,77074
+Harris,Bellaire,Neurology,89,75,82,ADEQUATE,77389
+Harris,Bellaire,Ophthalmology,11,19,15,INADEQUATE,77055
+Harris,Bellaire,Orthopedic Surgery,41,14,28,INADEQUATE,77598
+Collin,Anna,Anesthesiology,100,83,92,ADEQUATE,75093
+Collin,Anna,Cardiology,93,47,70,ADEQUATE,78660
+Collin,Anna,Dermatology,33,22,28,INADEQUATE,75094
+Collin,Anna,Gynecology,21,40,30,INADEQUATE,75082
+Collin,Anna,Neurology,59,56,58,PARTIALLY ADEQUATE,77030
+Collin,Anna,Ophthalmology,44,97,70,ADEQUATE,75069
+Collin,Anna,Orthopedic Surgery,42,61,52,PARTIALLY ADEQUATE,75013
+Travis,Spicewood,Anesthesiology,42,65,54,PARTIALLY ADEQUATE,78705
+Travis,Spicewood,Cardiology,70,24,47,PARTIALLY ADEQUATE,78731
+Travis,Spicewood,Dermatology,60,38,49,PARTIALLY ADEQUATE,75034
+Travis,Spicewood,Gynecology,52,17,34,INADEQUATE,77521
+Travis,Spicewood,Neurology,21,14,18,INADEQUATE,78660
+Travis,Spicewood,Ophthalmology,76,38,57,PARTIALLY ADEQUATE,78738
+Travis,Spicewood,Orthopedic Surgery,74,56,65,ADEQUATE,76014
+Travis,Ausitin,Anesthesiology,42,77,60,ADEQUATE,78705
+Travis,Ausitin,Cardiology,49,85,67,ADEQUATE,78229
+Travis,Ausitin,Dermatology,83,54,68,ADEQUATE,78705
+Travis,Ausitin,Gynecology,52,11,32,INADEQUATE,78738
+Travis,Ausitin,Neurology,53,36,44,INADEQUATE,78759
+Travis,Ausitin,Ophthalmology,38,45,42,INADEQUATE,77030
+Travis,Ausitin,Orthopedic Surgery,22,45,34,INADEQUATE,75034
+Collin,Wylie,Anesthesiology,21,35,28,INADEQUATE,75246
+Collin,Wylie,Cardiology,55,52,54,PARTIALLY ADEQUATE,76022
+Collin,Wylie,Dermatology,11,36,24,INADEQUATE,77008
+Collin,Wylie,Gynecology,44,78,61,ADEQUATE,78229
+Collin,Wylie,Neurology,96,29,62,ADEQUATE,75093
+Collin,Wylie,Ophthalmology,90,20,55,PARTIALLY ADEQUATE,78218
+Collin,Wylie,Orthopedic Surgery,99,83,91,ADEQUATE,75093
+Tarrant,Saginaw,Anesthesiology,17,47,32,INADEQUATE,78212
+Tarrant,Saginaw,Cardiology,35,15,25,INADEQUATE,75078
+Tarrant,Saginaw,Dermatology,83,81,82,ADEQUATE,76092
+Tarrant,Saginaw,Gynecology,99,32,66,ADEQUATE,78735
+Tarrant,Saginaw,Neurology,43,56,50,PARTIALLY ADEQUATE,77030
+Tarrant,Saginaw,Ophthalmology,16,99,58,PARTIALLY ADEQUATE,76132
+Tarrant,Saginaw,Orthopedic Surgery,77,55,66,ADEQUATE,76034
+Tarrant,Haltom City,Anesthesiology,67,21,44,INADEQUATE,76034
+Tarrant,Haltom City,Cardiology,84,99,92,ADEQUATE,76022
+Tarrant,Haltom City,Dermatology,38,22,30,INADEQUATE,76132
+Tarrant,Haltom City,Gynecology,45,71,58,PARTIALLY ADEQUATE,76116
+Tarrant,Haltom City,Neurology,98,91,94,ADEQUATE,76039
+Tarrant,Haltom City,Ophthalmology,30,98,64,ADEQUATE,75231
+Tarrant,Haltom City,Orthopedic Surgery,45,69,57,PARTIALLY ADEQUATE,76053
+Tarrant,Duncanville,Anesthesiology,19,52,36,INADEQUATE,76104
+Tarrant,Duncanville,Cardiology,82,85,84,ADEQUATE,76012
+Tarrant,Duncanville,Dermatology,33,77,55,PARTIALLY ADEQUATE,76131
+Tarrant,Duncanville,Gynecology,73,14,44,INADEQUATE,76132
+Tarrant,Duncanville,Neurology,58,46,52,PARTIALLY ADEQUATE,77401
+Tarrant,Duncanville,Ophthalmology,45,81,63,ADEQUATE,76092
+Tarrant,Duncanville,Orthopedic Surgery,91,40,66,ADEQUATE,77025
+Travis,Lago Vista,Anesthesiology,33,18,26,INADEQUATE,77026
+Travis,Lago Vista,Cardiology,32,60,46,PARTIALLY ADEQUATE,78756
+Travis,Lago Vista,Dermatology,71,38,54,PARTIALLY ADEQUATE,77002
+Travis,Lago Vista,Gynecology,46,87,66,ADEQUATE,78704
+Travis,Lago Vista,Neurology,21,49,35,INADEQUATE,77401
+Travis,Lago Vista,Ophthalmology,64,50,57,PARTIALLY ADEQUATE,78746
+Travis,Lago Vista,Orthopedic Surgery,22,95,58,PARTIALLY ADEQUATE,75078
+Dallas,Rowlett,Anesthesiology,32,20,26,INADEQUATE,75088
+Dallas,Rowlett,Cardiology,98,32,65,ADEQUATE,75208
+Dallas,Rowlett,Dermatology,39,10,24,INADEQUATE,75006
+Dallas,Rowlett,Gynecology,26,55,40,INADEQUATE,77521
+Dallas,Rowlett,Neurology,71,30,50,PARTIALLY ADEQUATE,75088
+Dallas,Rowlett,Ophthalmology,93,99,96,ADEQUATE,75042
+Dallas,Rowlett,Orthopedic Surgery,98,45,72,ADEQUATE,75235
+Harris,Hiouston,Anesthesiology,95,63,79,ADEQUATE,77521
+Harris,Hiouston,Cardiology,22,96,59,PARTIALLY ADEQUATE,77379
+Harris,Hiouston,Dermatology,68,66,67,ADEQUATE,77530
+Harris,Hiouston,Gynecology,28,10,19,INADEQUATE,77379
+Harris,Hiouston,Neurology,58,72,65,ADEQUATE,77433
+Harris,Hiouston,Ophthalmology,21,63,42,INADEQUATE,77063
+Harris,Hiouston,Orthopedic Surgery,70,64,67,ADEQUATE,77339
+Tarrant,Richland Hills,Anesthesiology,28,49,38,INADEQUATE,76248
+Tarrant,Richland Hills,Cardiology,85,24,54,PARTIALLY ADEQUATE,77598
+Tarrant,Richland Hills,Dermatology,18,30,24,INADEQUATE,77008
+Tarrant,Richland Hills,Gynecology,80,56,68,ADEQUATE,76051
+Tarrant,Richland Hills,Neurology,37,82,60,ADEQUATE,78705
+Tarrant,Richland Hills,Ophthalmology,87,62,74,ADEQUATE,76054
+Tarrant,Richland Hills,Orthopedic Surgery,61,18,40,INADEQUATE,76177
+Bexar,Converse,Anesthesiology,92,83,88,ADEQUATE,75218
+Bexar,Converse,Cardiology,25,61,43,INADEQUATE,76022
+Bexar,Converse,Dermatology,78,66,72,ADEQUATE,78730
+Bexar,Converse,Gynecology,21,35,28,INADEQUATE,75246
+Bexar,Converse,Neurology,34,50,42,INADEQUATE,78248
+Bexar,Converse,Ophthalmology,61,44,52,PARTIALLY ADEQUATE,75251
+Bexar,Converse,Orthopedic Surgery,94,72,83,ADEQUATE,78258
+Harris,The Woodlands,Anesthesiology,62,34,48,PARTIALLY ADEQUATE,75246
+Harris,The Woodlands,Cardiology,32,99,66,ADEQUATE,77375
+Harris,The Woodlands,Dermatology,25,84,54,PARTIALLY ADEQUATE,77008
+Harris,The Woodlands,Gynecology,66,47,56,PARTIALLY ADEQUATE,75231
+Harris,The Woodlands,Neurology,48,11,30,INADEQUATE,77532
+Harris,The Woodlands,Ophthalmology,62,16,39,INADEQUATE,77449
+Harris,The Woodlands,Orthopedic Surgery,51,91,71,ADEQUATE,77521
+Tarrant,Azle,Anesthesiology,67,100,84,ADEQUATE,76114
+Tarrant,Azle,Cardiology,48,43,46,PARTIALLY ADEQUATE,76132
+Tarrant,Azle,Dermatology,23,100,62,ADEQUATE,76054
+Tarrant,Azle,Gynecology,14,26,20,INADEQUATE,78229
+Tarrant,Azle,Neurology,44,52,48,PARTIALLY ADEQUATE,76022
+Tarrant,Azle,Ophthalmology,96,68,82,ADEQUATE,76053
+Tarrant,Azle,Orthopedic Surgery,84,60,72,ADEQUATE,76177

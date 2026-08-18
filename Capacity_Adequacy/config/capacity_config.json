@@ -1,0 +1,12 @@
+{
+    "specialty_capacity": {
+        "Anesthesiology": 6,
+        "Gynecology": 4,
+        "Orthopedic Surgery": 5,
+        "Cardiology": 5,
+        "Neurology": 2,
+        "Ophthalmology": 3,
+        "Dermatology": 2
+    }
+}
+
