@@ -6,7 +6,8 @@ import TexasNetworkMap from './components/TexasNetworkMap';
 import ExplainModal from './components/ExplainModal';
 import ExportModal from './components/ExportModal';
 
-const API_BASE = 'http://localhost:8000/api';
+const API_ORIGIN = (import.meta.env.VITE_API_URL || 'http://localhost:8000').replace(/\/$/, '');
+const API_BASE = `${API_ORIGIN}/api`;
 
 export default function App() {
   // Filters State — starts empty per user requirement
